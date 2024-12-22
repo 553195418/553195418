@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=&random=&width=435&lines=%E8%A8%80%E5%BF%B5%E5%90%9B%E5%AD%90%EF%BC%8C%E6%B8%A9%E5%85%B6%E5%A6%82%E7%8E%89%E3%80%82%E9%81%87%E4%BA%8B%E4%B8%8D%E5%86%B3%EF%BC%8C%E5%8F%AF%E9%97%AE%E6%98%A5%E9%A3%8E%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&width=435&lines=%E8%A8%80%E5%BF%B5%E5%90%9B%E5%AD%90%EF%BC%8C%E6%B8%A9%E5%85%B6%E5%A6%82%E7%8E%89%E3%80%82%E9%81%87%E4%BA%8B%E4%B8%8D%E5%86%B3%EF%BC%8C%E5%8F%AF%E9%97%AE%E6%98%A5%E9%A3%8E%E3%80%82)](https://git.io/typing-svg)
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
